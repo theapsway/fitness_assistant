@@ -1,0 +1,501 @@
+Exercise Name,Type of Activity,Type of Equipment,Body Part,Type,Muscle Groups Activated,Instruction
+Exercise 1,Cardio,Cable Machine,Core,Stretch,"glutes, hamstrings, calves",Squeeze the target muscles at the top of the movement.
+Exercise 2,Mobility,Bodyweight,Full Body,Stretch,"spine extensors, abdominals, shoulders","Exhale while exerting force, and inhale while returning to start."
+Exercise 3,Mobility,Cable Machine,Upper Body,Push,"lats, rhomboids, biceps",Rest for 30-60 seconds between sets.
+Exercise 4,Strength,TRX,Upper Body,Pull,"abdominals, obliques, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 5,Mobility,Rope,Lower Body,Stretch,"pectorals, front deltoids, triceps",Keep your shoulders relaxed and down.
+Exercise 6,Strength,Treadmill,Upper Body,Pull,"chest, triceps, front deltoids",Control your motion—avoid using momentum.
+Exercise 7,Mobility,Rope,Core,Push,"calves, shoulders, forearms, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 8,Cardio,Resistance Band,Core,Hold,"calves, shoulders, forearms, core",Rest for 30-60 seconds between sets.
+Exercise 9,Cardio,Treadmill,Core,Hold,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 10,Mobility,Treadmill,Upper Body,Stretch,"lats, rhomboids, biceps",Maintain a neutral spine throughout the exercise.
+Exercise 11,Warm-up,TRX,Lower Body,Pull,"rear deltoids, traps, rhomboids",Maintain a neutral spine throughout the exercise.
+Exercise 12,Mobility,Barbell,Upper Body,Stretch,"traps, rear deltoids, biceps",Keep your shoulders relaxed and down.
+Exercise 13,Mobility,Dumbbells,Core,Stretch,"spine extensors, abdominals, shoulders",Rest for 30-60 seconds between sets.
+Exercise 14,Strength,Barbell,Lower Body,Pull,"pectorals, front deltoids, triceps",Rest for 30-60 seconds between sets.
+Exercise 15,Warm-up,Medicine Ball,Upper Body,Stretch,"pectorals, front deltoids, triceps",Rest for 30-60 seconds between sets.
+Exercise 16,Mobility,Rope,Lower Body,Push,"deltoids, triceps",Control your motion—avoid using momentum.
+Exercise 17,Strength,Treadmill,Lower Body,Hold,"spine extensors, abdominals, shoulders","Exhale while exerting force, and inhale while returning to start."
+Exercise 18,Strength,Resistance Band,Upper Body,Hold,"glutes, hamstrings, lower back",Perform slow and controlled repetitions.
+Exercise 19,Strength,Treadmill,Core,Hold,"chest, triceps, front deltoids",Squeeze the target muscles at the top of the movement.
+Exercise 20,Cardio,Barbell,Upper Body,Pull,"rear deltoids, traps, rhomboids",Keep your back straight and avoid locking your knees.
+Exercise 21,Mobility,Bodyweight,Full Body,Hold,"spine extensors, abdominals, shoulders",Ensure full range of motion without overstretching.
+Exercise 22,Strength,TRX,Lower Body,Hold,"quadriceps, glutes, hamstrings, core",Keep your shoulders relaxed and down.
+Exercise 23,Strength,Cable Machine,Upper Body,Stretch,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 24,Strength,Kettlebells,Full Body,Hold,"lats, rhomboids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 25,Mobility,Kettlebells,Full Body,Pull,"spine extensors, abdominals, shoulders",Perform slow and controlled repetitions.
+Exercise 26,Mobility,Rope,Full Body,Hold,"spine extensors, abdominals, shoulders",Squeeze the target muscles at the top of the movement.
+Exercise 27,Strength,TRX,Lower Body,Pull,"spine extensors, abdominals, shoulders","Exhale while exerting force, and inhale while returning to start."
+Exercise 28,Warm-up,Barbell,Core,Hold,"spine extensors, abdominals, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 29,Mobility,Cable Machine,Upper Body,Push,"chest, triceps, front deltoids",Ensure full range of motion without overstretching.
+Exercise 30,Mobility,TRX,Core,Stretch,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 31,Cardio,Resistance Band,Upper Body,Hold,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 32,Mobility,Kettlebells,Core,Pull,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 33,Strength,TRX,Upper Body,Push,"hip flexors, core, quadriceps",Stand tall and engage your core throughout the movement.
+Exercise 34,Warm-up,Medicine Ball,Core,Stretch,"calves, shoulders, forearms, core",Ensure full range of motion without overstretching.
+Exercise 35,Strength,Rope,Core,Stretch,"spine extensors, abdominals, shoulders",Rest for 30-60 seconds between sets.
+Exercise 36,Warm-up,Rope,Full Body,Pull,"glutes, hamstrings, lower back",Maintain a neutral spine throughout the exercise.
+Exercise 37,Strength,Dumbbells,Upper Body,Hold,"rear deltoids, traps, rhomboids",Keep your back straight and avoid locking your knees.
+Exercise 38,Mobility,Kettlebells,Core,Stretch,"glutes, hamstrings, calves",Ensure full range of motion without overstretching.
+Exercise 39,Warm-up,Cable Machine,Lower Body,Push,"hip flexors, core, quadriceps",Control your motion—avoid using momentum.
+Exercise 40,Mobility,Medicine Ball,Upper Body,Pull,"quadriceps, glutes, hamstrings, core",Rest for 30-60 seconds between sets.
+Exercise 41,Warm-up,Dumbbells,Lower Body,Hold,"spine extensors, abdominals, shoulders",Rest for 30-60 seconds between sets.
+Exercise 42,Cardio,Dumbbells,Full Body,Hold,"chest, triceps, front deltoids",Squeeze the target muscles at the top of the movement.
+Exercise 43,Mobility,Cable Machine,Full Body,Pull,"hip flexors, core, quadriceps",Keep your shoulders relaxed and down.
+Exercise 44,Warm-up,Kettlebells,Upper Body,Push,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 45,Cardio,Dumbbells,Core,Hold,"quadriceps, glutes, hamstrings, core",Perform slow and controlled repetitions.
+Exercise 46,Cardio,Rope,Full Body,Push,"biceps, forearms, deltoids",Maintain a neutral spine throughout the exercise.
+Exercise 47,Mobility,Bodyweight,Lower Body,Hold,"spine extensors, abdominals, shoulders",Stand tall and engage your core throughout the movement.
+Exercise 48,Cardio,Resistance Band,Lower Body,Pull,"traps, rear deltoids, biceps",Control your motion—avoid using momentum.
+Exercise 49,Mobility,Dumbbells,Full Body,Hold,"lats, rhomboids, biceps",Rest for 30-60 seconds between sets.
+Exercise 50,Warm-up,Rope,Upper Body,Push,"rear deltoids, traps, rhomboids","Exhale while exerting force, and inhale while returning to start."
+Exercise 51,Cardio,Bodyweight,Core,Stretch,"deltoids, triceps",Keep your shoulders relaxed and down.
+Exercise 52,Strength,Dumbbells,Upper Body,Stretch,"abdominals, obliques, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 53,Mobility,Cable Machine,Full Body,Hold,"traps, rear deltoids, biceps",Keep your shoulders relaxed and down.
+Exercise 54,Cardio,Treadmill,Lower Body,Push,"quadriceps, glutes, hamstrings, core",Squeeze the target muscles at the top of the movement.
+Exercise 55,Strength,Kettlebells,Full Body,Pull,"erector spinae, traps, hamstrings",Stand tall and engage your core throughout the movement.
+Exercise 56,Strength,Cable Machine,Full Body,Stretch,"traps, rear deltoids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 57,Cardio,Medicine Ball,Upper Body,Stretch,"calves, shoulders, forearms, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 58,Cardio,Medicine Ball,Lower Body,Push,"calves, shoulders, forearms, core",Rest for 30-60 seconds between sets.
+Exercise 59,Mobility,Rope,Core,Push,"rear deltoids, traps, rhomboids",Rest for 30-60 seconds between sets.
+Exercise 60,Cardio,Treadmill,Core,Stretch,"glutes, hamstrings, lower back",Keep your shoulders relaxed and down.
+Exercise 61,Strength,Bodyweight,Lower Body,Pull,"glutes, hamstrings, lower back",Maintain a neutral spine throughout the exercise.
+Exercise 62,Strength,Dumbbells,Full Body,Hold,"biceps, forearms, deltoids",Keep your back straight and avoid locking your knees.
+Exercise 63,Cardio,Kettlebells,Lower Body,Hold,"hip flexors, core, quadriceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 64,Mobility,Barbell,Core,Pull,"abdominals, obliques, shoulders",Keep your shoulders relaxed and down.
+Exercise 65,Warm-up,TRX,Lower Body,Pull,"abdominals, obliques, shoulders",Keep your shoulders relaxed and down.
+Exercise 66,Warm-up,Dumbbells,Core,Hold,"erector spinae, traps, hamstrings",Control your motion—avoid using momentum.
+Exercise 67,Mobility,TRX,Core,Pull,"quadriceps, glutes, hamstrings, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 68,Strength,Cable Machine,Lower Body,Hold,"glutes, hamstrings, calves",Keep your back straight and avoid locking your knees.
+Exercise 69,Warm-up,Medicine Ball,Core,Stretch,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 70,Cardio,Rope,Upper Body,Stretch,"rear deltoids, traps, rhomboids",Squeeze the target muscles at the top of the movement.
+Exercise 71,Warm-up,Rope,Core,Stretch,"hip flexors, core, quadriceps",Control your motion—avoid using momentum.
+Exercise 72,Cardio,Kettlebells,Upper Body,Hold,"pectorals, front deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 73,Mobility,TRX,Lower Body,Hold,"calves, shoulders, forearms, core",Squeeze the target muscles at the top of the movement.
+Exercise 74,Strength,Bodyweight,Core,Pull,"abdominals, obliques, shoulders",Control your motion—avoid using momentum.
+Exercise 75,Strength,Treadmill,Full Body,Hold,"quadriceps, glutes, hamstrings, core",Control your motion—avoid using momentum.
+Exercise 76,Cardio,Kettlebells,Full Body,Stretch,"calves, shoulders, forearms, core",Stand tall and engage your core throughout the movement.
+Exercise 77,Mobility,Cable Machine,Lower Body,Push,"calves, shoulders, forearms, core",Rest for 30-60 seconds between sets.
+Exercise 78,Mobility,Bodyweight,Core,Stretch,"lats, rhomboids, biceps",Keep your shoulders relaxed and down.
+Exercise 79,Strength,Resistance Band,Core,Pull,"glutes, hamstrings, lower back",Perform slow and controlled repetitions.
+Exercise 80,Warm-up,Kettlebells,Core,Hold,"quadriceps, glutes, hamstrings, core",Maintain a neutral spine throughout the exercise.
+Exercise 81,Warm-up,Bodyweight,Lower Body,Stretch,"rear deltoids, traps, rhomboids",Ensure full range of motion without overstretching.
+Exercise 82,Warm-up,Cable Machine,Upper Body,Pull,"chest, triceps, front deltoids",Keep your shoulders relaxed and down.
+Exercise 83,Cardio,Kettlebells,Core,Push,"glutes, hamstrings, lower back",Ensure full range of motion without overstretching.
+Exercise 84,Mobility,Medicine Ball,Core,Pull,"erector spinae, traps, hamstrings",Rest for 30-60 seconds between sets.
+Exercise 85,Strength,Bodyweight,Lower Body,Push,"pectorals, front deltoids, triceps",Keep your back straight and avoid locking your knees.
+Exercise 86,Mobility,Rope,Core,Hold,"pectorals, front deltoids, triceps",Keep your back straight and avoid locking your knees.
+Exercise 87,Strength,Bodyweight,Lower Body,Push,"glutes, hamstrings, calves",Perform slow and controlled repetitions.
+Exercise 88,Cardio,Medicine Ball,Lower Body,Pull,"rear deltoids, traps, rhomboids",Ensure full range of motion without overstretching.
+Exercise 89,Mobility,Treadmill,Lower Body,Stretch,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 90,Mobility,Medicine Ball,Upper Body,Push,"deltoids, triceps",Keep your back straight and avoid locking your knees.
+Exercise 91,Strength,TRX,Full Body,Push,"deltoids, triceps",Maintain a neutral spine throughout the exercise.
+Exercise 92,Cardio,Treadmill,Lower Body,Pull,"traps, rear deltoids, biceps",Ensure full range of motion without overstretching.
+Exercise 93,Cardio,Cable Machine,Lower Body,Push,"spine extensors, abdominals, shoulders",Keep your back straight and avoid locking your knees.
+Exercise 94,Strength,Treadmill,Full Body,Pull,"deltoids, triceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 95,Cardio,Rope,Lower Body,Pull,"chest, triceps, front deltoids",Perform slow and controlled repetitions.
+Exercise 96,Warm-up,Dumbbells,Upper Body,Push,"chest, triceps, front deltoids",Maintain a neutral spine throughout the exercise.
+Exercise 97,Warm-up,Bodyweight,Upper Body,Push,"traps, rear deltoids, biceps",Ensure full range of motion without overstretching.
+Exercise 98,Warm-up,Kettlebells,Upper Body,Pull,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 99,Cardio,Resistance Band,Full Body,Stretch,"traps, rear deltoids, biceps",Maintain a neutral spine throughout the exercise.
+Exercise 100,Mobility,Rope,Upper Body,Pull,"quadriceps, glutes, hamstrings, core",Keep your back straight and avoid locking your knees.
+Exercise 101,Cardio,Medicine Ball,Upper Body,Pull,"spine extensors, abdominals, shoulders",Squeeze the target muscles at the top of the movement.
+Exercise 102,Warm-up,Rope,Full Body,Pull,"glutes, hamstrings, calves",Keep your shoulders relaxed and down.
+Exercise 103,Warm-up,Barbell,Core,Stretch,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 104,Mobility,Kettlebells,Full Body,Pull,"hip flexors, core, quadriceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 105,Mobility,Resistance Band,Lower Body,Hold,"calves, shoulders, forearms, core",Keep your back straight and avoid locking your knees.
+Exercise 106,Warm-up,Dumbbells,Upper Body,Hold,"erector spinae, traps, hamstrings",Keep your back straight and avoid locking your knees.
+Exercise 107,Strength,Barbell,Upper Body,Push,"chest, triceps, front deltoids",Rest for 30-60 seconds between sets.
+Exercise 108,Cardio,Treadmill,Lower Body,Hold,"chest, triceps, front deltoids",Keep your back straight and avoid locking your knees.
+Exercise 109,Strength,Kettlebells,Full Body,Hold,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 110,Strength,Rope,Upper Body,Hold,"rear deltoids, traps, rhomboids",Control your motion—avoid using momentum.
+Exercise 111,Strength,Barbell,Full Body,Pull,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 112,Cardio,Kettlebells,Full Body,Push,"erector spinae, traps, hamstrings",Perform slow and controlled repetitions.
+Exercise 113,Strength,Barbell,Full Body,Hold,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 114,Mobility,Rope,Upper Body,Push,"glutes, hamstrings, calves","Exhale while exerting force, and inhale while returning to start."
+Exercise 115,Mobility,Barbell,Core,Push,"glutes, hamstrings, lower back",Keep your back straight and avoid locking your knees.
+Exercise 116,Mobility,Kettlebells,Lower Body,Push,"abdominals, obliques, shoulders",Rest for 30-60 seconds between sets.
+Exercise 117,Strength,Medicine Ball,Full Body,Hold,"quadriceps, glutes, hamstrings, core",Control your motion—avoid using momentum.
+Exercise 118,Cardio,Kettlebells,Lower Body,Push,"erector spinae, traps, hamstrings","Exhale while exerting force, and inhale while returning to start."
+Exercise 119,Cardio,Resistance Band,Core,Push,"chest, triceps, front deltoids",Rest for 30-60 seconds between sets.
+Exercise 120,Mobility,Rope,Upper Body,Hold,"lats, rhomboids, biceps",Control your motion—avoid using momentum.
+Exercise 121,Warm-up,Medicine Ball,Upper Body,Hold,"quadriceps, glutes, hamstrings, core",Rest for 30-60 seconds between sets.
+Exercise 122,Strength,Bodyweight,Lower Body,Stretch,"calves, shoulders, forearms, core",Squeeze the target muscles at the top of the movement.
+Exercise 123,Mobility,Kettlebells,Lower Body,Stretch,"abdominals, obliques, shoulders",Ensure full range of motion without overstretching.
+Exercise 124,Strength,Treadmill,Upper Body,Stretch,"glutes, hamstrings, lower back",Ensure full range of motion without overstretching.
+Exercise 125,Mobility,Rope,Full Body,Hold,"biceps, forearms, deltoids",Squeeze the target muscles at the top of the movement.
+Exercise 126,Cardio,Barbell,Upper Body,Pull,"abdominals, obliques, shoulders",Control your motion—avoid using momentum.
+Exercise 127,Warm-up,TRX,Core,Hold,"lats, rhomboids, biceps",Maintain a neutral spine throughout the exercise.
+Exercise 128,Warm-up,Kettlebells,Full Body,Hold,"glutes, hamstrings, calves",Rest for 30-60 seconds between sets.
+Exercise 129,Strength,Kettlebells,Upper Body,Pull,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 130,Cardio,Treadmill,Full Body,Push,"abdominals, obliques, shoulders",Control your motion—avoid using momentum.
+Exercise 131,Warm-up,Cable Machine,Full Body,Hold,"spine extensors, abdominals, shoulders",Keep your shoulders relaxed and down.
+Exercise 132,Mobility,Barbell,Lower Body,Push,"glutes, hamstrings, calves",Perform slow and controlled repetitions.
+Exercise 133,Warm-up,Cable Machine,Lower Body,Push,"rear deltoids, traps, rhomboids",Rest for 30-60 seconds between sets.
+Exercise 134,Strength,Medicine Ball,Lower Body,Pull,"glutes, hamstrings, lower back",Ensure full range of motion without overstretching.
+Exercise 135,Cardio,Medicine Ball,Full Body,Push,"traps, rear deltoids, biceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 136,Warm-up,TRX,Lower Body,Hold,"pectorals, front deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 137,Mobility,Kettlebells,Upper Body,Stretch,"calves, shoulders, forearms, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 138,Mobility,Kettlebells,Core,Hold,"glutes, hamstrings, calves",Maintain a neutral spine throughout the exercise.
+Exercise 139,Warm-up,Kettlebells,Core,Hold,"lats, rhomboids, biceps",Keep your shoulders relaxed and down.
+Exercise 140,Warm-up,TRX,Core,Pull,"traps, rear deltoids, biceps",Perform slow and controlled repetitions.
+Exercise 141,Cardio,Bodyweight,Upper Body,Stretch,"abdominals, obliques, shoulders",Ensure full range of motion without overstretching.
+Exercise 142,Mobility,Kettlebells,Upper Body,Hold,"glutes, hamstrings, lower back",Perform slow and controlled repetitions.
+Exercise 143,Warm-up,Kettlebells,Core,Push,"glutes, hamstrings, calves",Ensure full range of motion without overstretching.
+Exercise 144,Warm-up,Barbell,Full Body,Hold,"spine extensors, abdominals, shoulders",Keep your back straight and avoid locking your knees.
+Exercise 145,Strength,Rope,Upper Body,Hold,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 146,Cardio,Resistance Band,Core,Hold,"erector spinae, traps, hamstrings",Control your motion—avoid using momentum.
+Exercise 147,Cardio,Kettlebells,Upper Body,Pull,"pectorals, front deltoids, triceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 148,Cardio,Treadmill,Core,Stretch,"glutes, hamstrings, calves",Maintain a neutral spine throughout the exercise.
+Exercise 149,Mobility,TRX,Upper Body,Pull,"traps, rear deltoids, biceps",Stand tall and engage your core throughout the movement.
+Exercise 150,Strength,Medicine Ball,Core,Stretch,"biceps, forearms, deltoids",Perform slow and controlled repetitions.
+Exercise 151,Cardio,Cable Machine,Core,Push,"erector spinae, traps, hamstrings",Rest for 30-60 seconds between sets.
+Exercise 152,Cardio,Treadmill,Upper Body,Hold,"lats, rhomboids, biceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 153,Strength,Medicine Ball,Core,Hold,"glutes, hamstrings, calves",Rest for 30-60 seconds between sets.
+Exercise 154,Cardio,Bodyweight,Upper Body,Pull,"glutes, hamstrings, calves",Keep your back straight and avoid locking your knees.
+Exercise 155,Warm-up,Treadmill,Lower Body,Push,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 156,Strength,Medicine Ball,Upper Body,Push,"deltoids, triceps",Rest for 30-60 seconds between sets.
+Exercise 157,Strength,Kettlebells,Core,Pull,"glutes, hamstrings, lower back",Keep your back straight and avoid locking your knees.
+Exercise 158,Mobility,Cable Machine,Core,Stretch,"calves, shoulders, forearms, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 159,Warm-up,Rope,Upper Body,Stretch,"quadriceps, glutes, hamstrings, core",Control your motion—avoid using momentum.
+Exercise 160,Mobility,Barbell,Lower Body,Hold,"rear deltoids, traps, rhomboids",Squeeze the target muscles at the top of the movement.
+Exercise 161,Mobility,Resistance Band,Full Body,Stretch,"deltoids, triceps",Ensure full range of motion without overstretching.
+Exercise 162,Mobility,Barbell,Core,Stretch,"spine extensors, abdominals, shoulders",Ensure full range of motion without overstretching.
+Exercise 163,Mobility,Rope,Full Body,Pull,"lats, rhomboids, biceps",Stand tall and engage your core throughout the movement.
+Exercise 164,Cardio,TRX,Lower Body,Hold,"pectorals, front deltoids, triceps",Keep your back straight and avoid locking your knees.
+Exercise 165,Mobility,Treadmill,Lower Body,Push,"pectorals, front deltoids, triceps",Ensure full range of motion without overstretching.
+Exercise 166,Warm-up,Barbell,Upper Body,Pull,"pectorals, front deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 167,Cardio,Medicine Ball,Lower Body,Stretch,"glutes, hamstrings, calves",Keep your back straight and avoid locking your knees.
+Exercise 168,Mobility,TRX,Lower Body,Hold,"glutes, hamstrings, calves",Squeeze the target muscles at the top of the movement.
+Exercise 169,Warm-up,TRX,Lower Body,Stretch,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 170,Strength,Barbell,Lower Body,Push,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 171,Cardio,Kettlebells,Lower Body,Push,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 172,Warm-up,TRX,Upper Body,Push,"traps, rear deltoids, biceps",Perform slow and controlled repetitions.
+Exercise 173,Strength,Bodyweight,Full Body,Pull,"quadriceps, glutes, hamstrings, core",Squeeze the target muscles at the top of the movement.
+Exercise 174,Mobility,Kettlebells,Full Body,Push,"deltoids, triceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 175,Cardio,Bodyweight,Core,Pull,"quadriceps, glutes, hamstrings, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 176,Mobility,Treadmill,Core,Stretch,"traps, rear deltoids, biceps",Control your motion—avoid using momentum.
+Exercise 177,Mobility,Medicine Ball,Upper Body,Stretch,"lats, rhomboids, biceps",Keep your back straight and avoid locking your knees.
+Exercise 178,Warm-up,Resistance Band,Full Body,Pull,"traps, rear deltoids, biceps",Ensure full range of motion without overstretching.
+Exercise 179,Warm-up,Rope,Full Body,Push,"chest, triceps, front deltoids",Control your motion—avoid using momentum.
+Exercise 180,Strength,Rope,Core,Pull,"glutes, hamstrings, lower back",Perform slow and controlled repetitions.
+Exercise 181,Strength,Medicine Ball,Core,Push,"calves, shoulders, forearms, core",Keep your shoulders relaxed and down.
+Exercise 182,Mobility,TRX,Core,Push,"quadriceps, glutes, hamstrings, core",Keep your shoulders relaxed and down.
+Exercise 183,Mobility,Kettlebells,Full Body,Push,"glutes, hamstrings, lower back",Keep your back straight and avoid locking your knees.
+Exercise 184,Warm-up,Medicine Ball,Full Body,Hold,"quadriceps, glutes, hamstrings, core",Squeeze the target muscles at the top of the movement.
+Exercise 185,Strength,Resistance Band,Lower Body,Stretch,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 186,Strength,Dumbbells,Core,Pull,"glutes, hamstrings, lower back",Maintain a neutral spine throughout the exercise.
+Exercise 187,Mobility,Medicine Ball,Upper Body,Push,"rear deltoids, traps, rhomboids",Keep your back straight and avoid locking your knees.
+Exercise 188,Warm-up,Kettlebells,Core,Pull,"glutes, hamstrings, calves",Squeeze the target muscles at the top of the movement.
+Exercise 189,Cardio,Medicine Ball,Core,Push,"pectorals, front deltoids, triceps",Stand tall and engage your core throughout the movement.
+Exercise 190,Cardio,Medicine Ball,Core,Stretch,"glutes, hamstrings, calves",Squeeze the target muscles at the top of the movement.
+Exercise 191,Warm-up,Kettlebells,Upper Body,Stretch,"biceps, forearms, deltoids",Keep your shoulders relaxed and down.
+Exercise 192,Cardio,TRX,Lower Body,Hold,"pectorals, front deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 193,Strength,Cable Machine,Full Body,Hold,"erector spinae, traps, hamstrings",Keep your shoulders relaxed and down.
+Exercise 194,Warm-up,Kettlebells,Full Body,Hold,"deltoids, triceps",Ensure full range of motion without overstretching.
+Exercise 195,Strength,Bodyweight,Full Body,Stretch,"chest, triceps, front deltoids",Maintain a neutral spine throughout the exercise.
+Exercise 196,Strength,Rope,Full Body,Hold,"biceps, forearms, deltoids",Control your motion—avoid using momentum.
+Exercise 197,Cardio,Dumbbells,Core,Pull,"deltoids, triceps",Stand tall and engage your core throughout the movement.
+Exercise 198,Warm-up,Bodyweight,Full Body,Hold,"pectorals, front deltoids, triceps",Rest for 30-60 seconds between sets.
+Exercise 199,Cardio,TRX,Core,Push,"hip flexors, core, quadriceps",Keep your back straight and avoid locking your knees.
+Exercise 200,Strength,Medicine Ball,Full Body,Hold,"spine extensors, abdominals, shoulders",Keep your shoulders relaxed and down.
+Exercise 201,Strength,Cable Machine,Core,Stretch,"deltoids, triceps",Ensure full range of motion without overstretching.
+Exercise 202,Mobility,Bodyweight,Full Body,Pull,"deltoids, triceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 203,Cardio,Barbell,Full Body,Pull,"traps, rear deltoids, biceps",Keep your shoulders relaxed and down.
+Exercise 204,Warm-up,Bodyweight,Upper Body,Push,"erector spinae, traps, hamstrings",Rest for 30-60 seconds between sets.
+Exercise 205,Cardio,Kettlebells,Lower Body,Stretch,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 206,Cardio,TRX,Full Body,Pull,"biceps, forearms, deltoids",Perform slow and controlled repetitions.
+Exercise 207,Warm-up,TRX,Upper Body,Hold,"traps, rear deltoids, biceps",Perform slow and controlled repetitions.
+Exercise 208,Warm-up,Kettlebells,Lower Body,Hold,"deltoids, triceps",Keep your shoulders relaxed and down.
+Exercise 209,Cardio,Rope,Core,Pull,"hip flexors, core, quadriceps",Control your motion—avoid using momentum.
+Exercise 210,Cardio,Treadmill,Lower Body,Hold,"abdominals, obliques, shoulders",Rest for 30-60 seconds between sets.
+Exercise 211,Warm-up,Resistance Band,Upper Body,Stretch,"traps, rear deltoids, biceps",Keep your shoulders relaxed and down.
+Exercise 212,Warm-up,Rope,Upper Body,Pull,"quadriceps, glutes, hamstrings, core",Ensure full range of motion without overstretching.
+Exercise 213,Strength,Cable Machine,Full Body,Push,"hip flexors, core, quadriceps",Ensure full range of motion without overstretching.
+Exercise 214,Cardio,Treadmill,Upper Body,Pull,"rear deltoids, traps, rhomboids",Control your motion—avoid using momentum.
+Exercise 215,Strength,Kettlebells,Upper Body,Push,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 216,Strength,Barbell,Lower Body,Hold,"glutes, hamstrings, calves",Keep your shoulders relaxed and down.
+Exercise 217,Mobility,TRX,Upper Body,Pull,"quadriceps, glutes, hamstrings, core",Control your motion—avoid using momentum.
+Exercise 218,Cardio,Kettlebells,Upper Body,Stretch,"deltoids, triceps",Ensure full range of motion without overstretching.
+Exercise 219,Warm-up,Resistance Band,Upper Body,Pull,"chest, triceps, front deltoids",Stand tall and engage your core throughout the movement.
+Exercise 220,Cardio,Bodyweight,Lower Body,Hold,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 221,Warm-up,Barbell,Upper Body,Pull,"hip flexors, core, quadriceps",Perform slow and controlled repetitions.
+Exercise 222,Mobility,Kettlebells,Lower Body,Stretch,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 223,Mobility,Dumbbells,Lower Body,Hold,"hip flexors, core, quadriceps",Perform slow and controlled repetitions.
+Exercise 224,Cardio,Treadmill,Upper Body,Push,"calves, shoulders, forearms, core",Ensure full range of motion without overstretching.
+Exercise 225,Mobility,Kettlebells,Lower Body,Pull,"glutes, hamstrings, lower back",Perform slow and controlled repetitions.
+Exercise 226,Mobility,Medicine Ball,Full Body,Stretch,"lats, rhomboids, biceps",Control your motion—avoid using momentum.
+Exercise 227,Strength,Dumbbells,Core,Hold,"pectorals, front deltoids, triceps",Keep your shoulders relaxed and down.
+Exercise 228,Warm-up,Dumbbells,Core,Push,"lats, rhomboids, biceps",Keep your shoulders relaxed and down.
+Exercise 229,Mobility,Dumbbells,Upper Body,Pull,"rear deltoids, traps, rhomboids","Exhale while exerting force, and inhale while returning to start."
+Exercise 230,Cardio,Cable Machine,Upper Body,Stretch,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 231,Mobility,Bodyweight,Core,Hold,"hip flexors, core, quadriceps",Control your motion—avoid using momentum.
+Exercise 232,Cardio,Kettlebells,Lower Body,Stretch,"pectorals, front deltoids, triceps",Stand tall and engage your core throughout the movement.
+Exercise 233,Cardio,TRX,Full Body,Hold,"glutes, hamstrings, calves",Keep your shoulders relaxed and down.
+Exercise 234,Warm-up,Dumbbells,Core,Push,"abdominals, obliques, shoulders",Ensure full range of motion without overstretching.
+Exercise 235,Mobility,Resistance Band,Full Body,Hold,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 236,Cardio,Cable Machine,Lower Body,Pull,"traps, rear deltoids, biceps",Stand tall and engage your core throughout the movement.
+Exercise 237,Cardio,TRX,Lower Body,Pull,"deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 238,Cardio,Treadmill,Core,Push,"deltoids, triceps",Squeeze the target muscles at the top of the movement.
+Exercise 239,Mobility,Treadmill,Upper Body,Hold,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 240,Mobility,Cable Machine,Upper Body,Pull,"abdominals, obliques, shoulders",Squeeze the target muscles at the top of the movement.
+Exercise 241,Mobility,Treadmill,Core,Hold,"quadriceps, glutes, hamstrings, core",Rest for 30-60 seconds between sets.
+Exercise 242,Mobility,Treadmill,Lower Body,Push,"abdominals, obliques, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 243,Mobility,Medicine Ball,Core,Push,"chest, triceps, front deltoids",Keep your shoulders relaxed and down.
+Exercise 244,Warm-up,Dumbbells,Lower Body,Stretch,"lats, rhomboids, biceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 245,Mobility,TRX,Lower Body,Pull,"abdominals, obliques, shoulders",Squeeze the target muscles at the top of the movement.
+Exercise 246,Strength,Medicine Ball,Upper Body,Stretch,"glutes, hamstrings, calves",Ensure full range of motion without overstretching.
+Exercise 247,Strength,TRX,Upper Body,Hold,"glutes, hamstrings, calves",Control your motion—avoid using momentum.
+Exercise 248,Cardio,Kettlebells,Full Body,Stretch,"calves, shoulders, forearms, core",Rest for 30-60 seconds between sets.
+Exercise 249,Cardio,Cable Machine,Full Body,Push,"glutes, hamstrings, calves",Control your motion—avoid using momentum.
+Exercise 250,Mobility,Medicine Ball,Full Body,Pull,"deltoids, triceps",Squeeze the target muscles at the top of the movement.
+Exercise 251,Mobility,Cable Machine,Full Body,Stretch,"pectorals, front deltoids, triceps",Control your motion—avoid using momentum.
+Exercise 252,Mobility,TRX,Full Body,Pull,"calves, shoulders, forearms, core",Keep your shoulders relaxed and down.
+Exercise 253,Strength,Treadmill,Lower Body,Hold,"quadriceps, glutes, hamstrings, core",Squeeze the target muscles at the top of the movement.
+Exercise 254,Cardio,TRX,Upper Body,Pull,"hip flexors, core, quadriceps",Keep your back straight and avoid locking your knees.
+Exercise 255,Mobility,Barbell,Full Body,Pull,"quadriceps, glutes, hamstrings, core",Keep your shoulders relaxed and down.
+Exercise 256,Strength,Cable Machine,Core,Push,"hip flexors, core, quadriceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 257,Warm-up,Kettlebells,Full Body,Pull,"pectorals, front deltoids, triceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 258,Mobility,Kettlebells,Core,Push,"chest, triceps, front deltoids",Stand tall and engage your core throughout the movement.
+Exercise 259,Strength,Barbell,Lower Body,Hold,"quadriceps, glutes, hamstrings, core",Keep your back straight and avoid locking your knees.
+Exercise 260,Cardio,Resistance Band,Upper Body,Hold,"quadriceps, glutes, hamstrings, core",Keep your shoulders relaxed and down.
+Exercise 261,Strength,Treadmill,Upper Body,Stretch,"erector spinae, traps, hamstrings",Rest for 30-60 seconds between sets.
+Exercise 262,Warm-up,Kettlebells,Lower Body,Hold,"glutes, hamstrings, lower back",Maintain a neutral spine throughout the exercise.
+Exercise 263,Mobility,Treadmill,Full Body,Pull,"deltoids, triceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 264,Warm-up,TRX,Lower Body,Pull,"spine extensors, abdominals, shoulders",Perform slow and controlled repetitions.
+Exercise 265,Mobility,Kettlebells,Lower Body,Hold,"chest, triceps, front deltoids",Maintain a neutral spine throughout the exercise.
+Exercise 266,Cardio,Kettlebells,Upper Body,Push,"deltoids, triceps",Ensure full range of motion without overstretching.
+Exercise 267,Strength,Rope,Core,Stretch,"lats, rhomboids, biceps",Keep your shoulders relaxed and down.
+Exercise 268,Cardio,Kettlebells,Lower Body,Hold,"quadriceps, glutes, hamstrings, core",Ensure full range of motion without overstretching.
+Exercise 269,Warm-up,Kettlebells,Full Body,Pull,"chest, triceps, front deltoids",Rest for 30-60 seconds between sets.
+Exercise 270,Cardio,Bodyweight,Core,Pull,"calves, shoulders, forearms, core",Stand tall and engage your core throughout the movement.
+Exercise 271,Warm-up,TRX,Upper Body,Stretch,"calves, shoulders, forearms, core",Keep your shoulders relaxed and down.
+Exercise 272,Warm-up,Treadmill,Full Body,Push,"glutes, hamstrings, calves",Stand tall and engage your core throughout the movement.
+Exercise 273,Mobility,Kettlebells,Full Body,Stretch,"lats, rhomboids, biceps",Rest for 30-60 seconds between sets.
+Exercise 274,Strength,Resistance Band,Full Body,Pull,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 275,Warm-up,Dumbbells,Core,Stretch,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 276,Cardio,Rope,Full Body,Hold,"calves, shoulders, forearms, core",Keep your back straight and avoid locking your knees.
+Exercise 277,Mobility,Treadmill,Full Body,Pull,"lats, rhomboids, biceps",Ensure full range of motion without overstretching.
+Exercise 278,Warm-up,Dumbbells,Upper Body,Pull,"abdominals, obliques, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 279,Warm-up,Dumbbells,Lower Body,Hold,"pectorals, front deltoids, triceps",Control your motion—avoid using momentum.
+Exercise 280,Strength,Treadmill,Full Body,Pull,"lats, rhomboids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 281,Mobility,TRX,Core,Hold,"glutes, hamstrings, calves",Keep your back straight and avoid locking your knees.
+Exercise 282,Strength,TRX,Core,Push,"hip flexors, core, quadriceps",Ensure full range of motion without overstretching.
+Exercise 283,Strength,TRX,Full Body,Pull,"quadriceps, glutes, hamstrings, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 284,Warm-up,Dumbbells,Upper Body,Pull,"traps, rear deltoids, biceps",Ensure full range of motion without overstretching.
+Exercise 285,Warm-up,Treadmill,Lower Body,Stretch,"glutes, hamstrings, lower back",Maintain a neutral spine throughout the exercise.
+Exercise 286,Strength,Rope,Upper Body,Stretch,"glutes, hamstrings, calves",Stand tall and engage your core throughout the movement.
+Exercise 287,Mobility,Bodyweight,Lower Body,Push,"erector spinae, traps, hamstrings",Maintain a neutral spine throughout the exercise.
+Exercise 288,Cardio,Medicine Ball,Lower Body,Pull,"traps, rear deltoids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 289,Warm-up,Treadmill,Lower Body,Hold,"spine extensors, abdominals, shoulders",Stand tall and engage your core throughout the movement.
+Exercise 290,Cardio,Kettlebells,Core,Pull,"biceps, forearms, deltoids",Keep your shoulders relaxed and down.
+Exercise 291,Mobility,Resistance Band,Lower Body,Hold,"glutes, hamstrings, calves",Keep your back straight and avoid locking your knees.
+Exercise 292,Warm-up,Cable Machine,Full Body,Push,"quadriceps, glutes, hamstrings, core",Ensure full range of motion without overstretching.
+Exercise 293,Mobility,Rope,Full Body,Stretch,"abdominals, obliques, shoulders",Rest for 30-60 seconds between sets.
+Exercise 294,Strength,Kettlebells,Core,Pull,"traps, rear deltoids, biceps",Keep your shoulders relaxed and down.
+Exercise 295,Mobility,Rope,Full Body,Pull,"glutes, hamstrings, calves","Exhale while exerting force, and inhale while returning to start."
+Exercise 296,Warm-up,Barbell,Upper Body,Hold,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 297,Warm-up,Kettlebells,Lower Body,Pull,"glutes, hamstrings, calves",Perform slow and controlled repetitions.
+Exercise 298,Cardio,Bodyweight,Full Body,Push,"erector spinae, traps, hamstrings",Keep your shoulders relaxed and down.
+Exercise 299,Strength,Cable Machine,Lower Body,Pull,"traps, rear deltoids, biceps",Keep your back straight and avoid locking your knees.
+Exercise 300,Strength,Kettlebells,Full Body,Hold,"lats, rhomboids, biceps",Rest for 30-60 seconds between sets.
+Exercise 301,Mobility,Dumbbells,Core,Pull,"rear deltoids, traps, rhomboids",Maintain a neutral spine throughout the exercise.
+Exercise 302,Mobility,Bodyweight,Lower Body,Stretch,"erector spinae, traps, hamstrings",Stand tall and engage your core throughout the movement.
+Exercise 303,Strength,Barbell,Lower Body,Hold,"quadriceps, glutes, hamstrings, core",Perform slow and controlled repetitions.
+Exercise 304,Strength,Bodyweight,Lower Body,Push,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 305,Strength,Medicine Ball,Upper Body,Hold,"chest, triceps, front deltoids",Keep your back straight and avoid locking your knees.
+Exercise 306,Warm-up,Resistance Band,Upper Body,Stretch,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 307,Mobility,Kettlebells,Lower Body,Push,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 308,Warm-up,Rope,Full Body,Push,"abdominals, obliques, shoulders",Control your motion—avoid using momentum.
+Exercise 309,Warm-up,Barbell,Core,Stretch,"traps, rear deltoids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 310,Cardio,Medicine Ball,Core,Hold,"chest, triceps, front deltoids","Exhale while exerting force, and inhale while returning to start."
+Exercise 311,Strength,Rope,Full Body,Pull,"calves, shoulders, forearms, core",Squeeze the target muscles at the top of the movement.
+Exercise 312,Mobility,Bodyweight,Core,Pull,"deltoids, triceps",Stand tall and engage your core throughout the movement.
+Exercise 313,Warm-up,Kettlebells,Core,Push,"pectorals, front deltoids, triceps",Rest for 30-60 seconds between sets.
+Exercise 314,Strength,Bodyweight,Lower Body,Stretch,"traps, rear deltoids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 315,Strength,Kettlebells,Lower Body,Pull,"pectorals, front deltoids, triceps",Rest for 30-60 seconds between sets.
+Exercise 316,Warm-up,Medicine Ball,Full Body,Hold,"erector spinae, traps, hamstrings","Exhale while exerting force, and inhale while returning to start."
+Exercise 317,Mobility,TRX,Core,Pull,"biceps, forearms, deltoids","Exhale while exerting force, and inhale while returning to start."
+Exercise 318,Warm-up,Rope,Upper Body,Push,"spine extensors, abdominals, shoulders",Keep your back straight and avoid locking your knees.
+Exercise 319,Mobility,Cable Machine,Upper Body,Stretch,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 320,Cardio,Barbell,Upper Body,Pull,"abdominals, obliques, shoulders",Squeeze the target muscles at the top of the movement.
+Exercise 321,Cardio,Cable Machine,Lower Body,Pull,"quadriceps, glutes, hamstrings, core",Maintain a neutral spine throughout the exercise.
+Exercise 322,Cardio,Medicine Ball,Full Body,Hold,"spine extensors, abdominals, shoulders",Rest for 30-60 seconds between sets.
+Exercise 323,Warm-up,TRX,Upper Body,Push,"rear deltoids, traps, rhomboids",Stand tall and engage your core throughout the movement.
+Exercise 324,Warm-up,TRX,Core,Push,"erector spinae, traps, hamstrings",Control your motion—avoid using momentum.
+Exercise 325,Strength,Kettlebells,Upper Body,Stretch,"spine extensors, abdominals, shoulders",Keep your back straight and avoid locking your knees.
+Exercise 326,Cardio,Cable Machine,Core,Pull,"glutes, hamstrings, calves","Exhale while exerting force, and inhale while returning to start."
+Exercise 327,Warm-up,Dumbbells,Full Body,Stretch,"abdominals, obliques, shoulders",Keep your shoulders relaxed and down.
+Exercise 328,Mobility,Bodyweight,Lower Body,Stretch,"traps, rear deltoids, biceps",Control your motion—avoid using momentum.
+Exercise 329,Warm-up,Resistance Band,Lower Body,Hold,"spine extensors, abdominals, shoulders",Perform slow and controlled repetitions.
+Exercise 330,Warm-up,Kettlebells,Upper Body,Push,"rear deltoids, traps, rhomboids",Maintain a neutral spine throughout the exercise.
+Exercise 331,Warm-up,Medicine Ball,Lower Body,Stretch,"pectorals, front deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 332,Cardio,Barbell,Lower Body,Push,"chest, triceps, front deltoids",Rest for 30-60 seconds between sets.
+Exercise 333,Mobility,Resistance Band,Full Body,Pull,"hip flexors, core, quadriceps",Perform slow and controlled repetitions.
+Exercise 334,Warm-up,TRX,Upper Body,Stretch,"spine extensors, abdominals, shoulders",Ensure full range of motion without overstretching.
+Exercise 335,Cardio,Bodyweight,Full Body,Pull,"spine extensors, abdominals, shoulders",Keep your back straight and avoid locking your knees.
+Exercise 336,Strength,Bodyweight,Core,Pull,"lats, rhomboids, biceps",Control your motion—avoid using momentum.
+Exercise 337,Mobility,Rope,Upper Body,Stretch,"glutes, hamstrings, calves",Stand tall and engage your core throughout the movement.
+Exercise 338,Strength,Rope,Upper Body,Stretch,"traps, rear deltoids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 339,Cardio,Resistance Band,Upper Body,Pull,"erector spinae, traps, hamstrings",Perform slow and controlled repetitions.
+Exercise 340,Warm-up,Treadmill,Upper Body,Stretch,"abdominals, obliques, shoulders",Stand tall and engage your core throughout the movement.
+Exercise 341,Cardio,Kettlebells,Lower Body,Stretch,"calves, shoulders, forearms, core","Exhale while exerting force, and inhale while returning to start."
+Exercise 342,Strength,Resistance Band,Core,Stretch,"quadriceps, glutes, hamstrings, core",Keep your back straight and avoid locking your knees.
+Exercise 343,Mobility,Cable Machine,Upper Body,Stretch,"biceps, forearms, deltoids",Stand tall and engage your core throughout the movement.
+Exercise 344,Mobility,Cable Machine,Upper Body,Pull,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 345,Warm-up,Rope,Upper Body,Hold,"spine extensors, abdominals, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 346,Warm-up,TRX,Upper Body,Pull,"glutes, hamstrings, calves","Exhale while exerting force, and inhale while returning to start."
+Exercise 347,Warm-up,TRX,Lower Body,Stretch,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 348,Warm-up,Resistance Band,Lower Body,Stretch,"chest, triceps, front deltoids",Rest for 30-60 seconds between sets.
+Exercise 349,Mobility,Dumbbells,Lower Body,Pull,"glutes, hamstrings, calves",Keep your shoulders relaxed and down.
+Exercise 350,Cardio,Medicine Ball,Core,Pull,"spine extensors, abdominals, shoulders",Control your motion—avoid using momentum.
+Exercise 351,Strength,Medicine Ball,Lower Body,Hold,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 352,Cardio,Treadmill,Lower Body,Push,"spine extensors, abdominals, shoulders",Perform slow and controlled repetitions.
+Exercise 353,Mobility,TRX,Upper Body,Stretch,"biceps, forearms, deltoids","Exhale while exerting force, and inhale while returning to start."
+Exercise 354,Mobility,TRX,Full Body,Push,"traps, rear deltoids, biceps",Perform slow and controlled repetitions.
+Exercise 355,Mobility,TRX,Core,Hold,"erector spinae, traps, hamstrings","Exhale while exerting force, and inhale while returning to start."
+Exercise 356,Warm-up,Bodyweight,Upper Body,Push,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 357,Cardio,Barbell,Full Body,Pull,"chest, triceps, front deltoids",Perform slow and controlled repetitions.
+Exercise 358,Mobility,Resistance Band,Upper Body,Push,"spine extensors, abdominals, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 359,Mobility,Dumbbells,Upper Body,Push,"hip flexors, core, quadriceps",Keep your back straight and avoid locking your knees.
+Exercise 360,Cardio,TRX,Core,Pull,"pectorals, front deltoids, triceps",Stand tall and engage your core throughout the movement.
+Exercise 361,Strength,Rope,Upper Body,Pull,"rear deltoids, traps, rhomboids",Maintain a neutral spine throughout the exercise.
+Exercise 362,Strength,Treadmill,Full Body,Pull,"glutes, hamstrings, calves",Stand tall and engage your core throughout the movement.
+Exercise 363,Mobility,Kettlebells,Full Body,Hold,"chest, triceps, front deltoids",Ensure full range of motion without overstretching.
+Exercise 364,Warm-up,TRX,Lower Body,Hold,"traps, rear deltoids, biceps",Ensure full range of motion without overstretching.
+Exercise 365,Strength,Dumbbells,Upper Body,Stretch,"deltoids, triceps",Ensure full range of motion without overstretching.
+Exercise 366,Strength,Dumbbells,Lower Body,Stretch,"quadriceps, glutes, hamstrings, core",Perform slow and controlled repetitions.
+Exercise 367,Mobility,Bodyweight,Upper Body,Hold,"lats, rhomboids, biceps",Perform slow and controlled repetitions.
+Exercise 368,Strength,Cable Machine,Full Body,Stretch,"deltoids, triceps",Stand tall and engage your core throughout the movement.
+Exercise 369,Mobility,Treadmill,Core,Pull,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 370,Mobility,Barbell,Lower Body,Hold,"hip flexors, core, quadriceps",Ensure full range of motion without overstretching.
+Exercise 371,Cardio,Rope,Full Body,Hold,"traps, rear deltoids, biceps",Rest for 30-60 seconds between sets.
+Exercise 372,Warm-up,Kettlebells,Upper Body,Hold,"traps, rear deltoids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 373,Warm-up,Resistance Band,Lower Body,Pull,"quadriceps, glutes, hamstrings, core",Squeeze the target muscles at the top of the movement.
+Exercise 374,Strength,Dumbbells,Lower Body,Hold,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 375,Strength,Rope,Core,Stretch,"lats, rhomboids, biceps",Squeeze the target muscles at the top of the movement.
+Exercise 376,Warm-up,Bodyweight,Lower Body,Hold,"biceps, forearms, deltoids",Rest for 30-60 seconds between sets.
+Exercise 377,Mobility,Treadmill,Upper Body,Hold,"hip flexors, core, quadriceps",Squeeze the target muscles at the top of the movement.
+Exercise 378,Cardio,Bodyweight,Full Body,Push,"spine extensors, abdominals, shoulders",Stand tall and engage your core throughout the movement.
+Exercise 379,Warm-up,Barbell,Lower Body,Push,"glutes, hamstrings, calves",Maintain a neutral spine throughout the exercise.
+Exercise 380,Warm-up,TRX,Upper Body,Hold,"spine extensors, abdominals, shoulders",Control your motion—avoid using momentum.
+Exercise 381,Mobility,Medicine Ball,Full Body,Stretch,"pectorals, front deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 382,Cardio,Rope,Full Body,Pull,"quadriceps, glutes, hamstrings, core",Ensure full range of motion without overstretching.
+Exercise 383,Strength,Bodyweight,Full Body,Stretch,"spine extensors, abdominals, shoulders",Keep your shoulders relaxed and down.
+Exercise 384,Mobility,Kettlebells,Core,Pull,"quadriceps, glutes, hamstrings, core",Keep your back straight and avoid locking your knees.
+Exercise 385,Strength,Rope,Core,Hold,"glutes, hamstrings, lower back",Rest for 30-60 seconds between sets.
+Exercise 386,Warm-up,Dumbbells,Full Body,Stretch,"quadriceps, glutes, hamstrings, core",Stand tall and engage your core throughout the movement.
+Exercise 387,Mobility,Medicine Ball,Core,Hold,"chest, triceps, front deltoids",Rest for 30-60 seconds between sets.
+Exercise 388,Strength,Cable Machine,Upper Body,Stretch,"traps, rear deltoids, biceps",Perform slow and controlled repetitions.
+Exercise 389,Mobility,Dumbbells,Lower Body,Hold,"erector spinae, traps, hamstrings",Stand tall and engage your core throughout the movement.
+Exercise 390,Mobility,Bodyweight,Upper Body,Pull,"lats, rhomboids, biceps",Control your motion—avoid using momentum.
+Exercise 391,Cardio,Resistance Band,Upper Body,Stretch,"chest, triceps, front deltoids",Keep your shoulders relaxed and down.
+Exercise 392,Cardio,Bodyweight,Upper Body,Hold,"pectorals, front deltoids, triceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 393,Mobility,Cable Machine,Full Body,Pull,"glutes, hamstrings, calves",Squeeze the target muscles at the top of the movement.
+Exercise 394,Strength,Treadmill,Upper Body,Hold,"biceps, forearms, deltoids","Exhale while exerting force, and inhale while returning to start."
+Exercise 395,Strength,Barbell,Core,Stretch,"glutes, hamstrings, lower back","Exhale while exerting force, and inhale while returning to start."
+Exercise 396,Strength,Kettlebells,Lower Body,Push,"deltoids, triceps",Keep your shoulders relaxed and down.
+Exercise 397,Strength,Rope,Upper Body,Hold,"erector spinae, traps, hamstrings",Maintain a neutral spine throughout the exercise.
+Exercise 398,Mobility,Bodyweight,Core,Pull,"lats, rhomboids, biceps",Stand tall and engage your core throughout the movement.
+Exercise 399,Strength,Rope,Core,Pull,"biceps, forearms, deltoids",Rest for 30-60 seconds between sets.
+Exercise 400,Cardio,Medicine Ball,Upper Body,Stretch,"rear deltoids, traps, rhomboids",Stand tall and engage your core throughout the movement.
+Exercise 401,Mobility,TRX,Upper Body,Push,"glutes, hamstrings, calves",Control your motion—avoid using momentum.
+Exercise 402,Cardio,Medicine Ball,Lower Body,Pull,"deltoids, triceps",Keep your shoulders relaxed and down.
+Exercise 403,Warm-up,Bodyweight,Upper Body,Push,"hip flexors, core, quadriceps",Rest for 30-60 seconds between sets.
+Exercise 404,Mobility,Resistance Band,Full Body,Pull,"hip flexors, core, quadriceps",Keep your shoulders relaxed and down.
+Exercise 405,Warm-up,TRX,Core,Stretch,"pectorals, front deltoids, triceps",Maintain a neutral spine throughout the exercise.
+Exercise 406,Cardio,Bodyweight,Lower Body,Hold,"spine extensors, abdominals, shoulders",Rest for 30-60 seconds between sets.
+Exercise 407,Warm-up,Rope,Full Body,Stretch,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 408,Strength,Treadmill,Core,Pull,"traps, rear deltoids, biceps",Ensure full range of motion without overstretching.
+Exercise 409,Warm-up,Cable Machine,Full Body,Hold,"quadriceps, glutes, hamstrings, core",Maintain a neutral spine throughout the exercise.
+Exercise 410,Cardio,Rope,Core,Hold,"erector spinae, traps, hamstrings",Squeeze the target muscles at the top of the movement.
+Exercise 411,Warm-up,Bodyweight,Full Body,Push,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 412,Cardio,Cable Machine,Lower Body,Pull,"hip flexors, core, quadriceps",Rest for 30-60 seconds between sets.
+Exercise 413,Cardio,Rope,Full Body,Hold,"traps, rear deltoids, biceps",Ensure full range of motion without overstretching.
+Exercise 414,Warm-up,Bodyweight,Upper Body,Push,"chest, triceps, front deltoids",Perform slow and controlled repetitions.
+Exercise 415,Cardio,Bodyweight,Core,Pull,"chest, triceps, front deltoids",Stand tall and engage your core throughout the movement.
+Exercise 416,Mobility,Treadmill,Core,Pull,"traps, rear deltoids, biceps",Perform slow and controlled repetitions.
+Exercise 417,Mobility,Bodyweight,Lower Body,Pull,"erector spinae, traps, hamstrings",Squeeze the target muscles at the top of the movement.
+Exercise 418,Strength,Rope,Full Body,Push,"glutes, hamstrings, calves",Perform slow and controlled repetitions.
+Exercise 419,Warm-up,Dumbbells,Upper Body,Hold,"traps, rear deltoids, biceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 420,Cardio,Dumbbells,Core,Pull,"traps, rear deltoids, biceps",Keep your back straight and avoid locking your knees.
+Exercise 421,Strength,TRX,Core,Hold,"quadriceps, glutes, hamstrings, core",Control your motion—avoid using momentum.
+Exercise 422,Warm-up,Barbell,Full Body,Hold,"lats, rhomboids, biceps",Control your motion—avoid using momentum.
+Exercise 423,Strength,Dumbbells,Upper Body,Stretch,"traps, rear deltoids, biceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 424,Warm-up,Resistance Band,Full Body,Pull,"traps, rear deltoids, biceps","Exhale while exerting force, and inhale while returning to start."
+Exercise 425,Mobility,Rope,Lower Body,Push,"quadriceps, glutes, hamstrings, core",Perform slow and controlled repetitions.
+Exercise 426,Warm-up,Cable Machine,Full Body,Push,"glutes, hamstrings, calves",Squeeze the target muscles at the top of the movement.
+Exercise 427,Warm-up,Cable Machine,Lower Body,Hold,"traps, rear deltoids, biceps",Perform slow and controlled repetitions.
+Exercise 428,Mobility,Kettlebells,Core,Hold,"biceps, forearms, deltoids",Control your motion—avoid using momentum.
+Exercise 429,Cardio,Barbell,Lower Body,Push,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 430,Cardio,Treadmill,Full Body,Hold,"deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 431,Strength,Bodyweight,Upper Body,Pull,"glutes, hamstrings, calves",Control your motion—avoid using momentum.
+Exercise 432,Cardio,TRX,Lower Body,Hold,"calves, shoulders, forearms, core",Maintain a neutral spine throughout the exercise.
+Exercise 433,Strength,TRX,Full Body,Pull,"biceps, forearms, deltoids",Rest for 30-60 seconds between sets.
+Exercise 434,Warm-up,Rope,Full Body,Pull,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 435,Strength,Kettlebells,Upper Body,Push,"rear deltoids, traps, rhomboids",Squeeze the target muscles at the top of the movement.
+Exercise 436,Cardio,Treadmill,Upper Body,Stretch,"glutes, hamstrings, lower back",Control your motion—avoid using momentum.
+Exercise 437,Warm-up,Medicine Ball,Lower Body,Pull,"calves, shoulders, forearms, core",Maintain a neutral spine throughout the exercise.
+Exercise 438,Warm-up,Kettlebells,Lower Body,Pull,"glutes, hamstrings, calves",Squeeze the target muscles at the top of the movement.
+Exercise 439,Warm-up,Dumbbells,Core,Hold,"abdominals, obliques, shoulders",Rest for 30-60 seconds between sets.
+Exercise 440,Warm-up,Rope,Upper Body,Push,"hip flexors, core, quadriceps",Stand tall and engage your core throughout the movement.
+Exercise 441,Warm-up,Treadmill,Upper Body,Pull,"chest, triceps, front deltoids",Control your motion—avoid using momentum.
+Exercise 442,Strength,Treadmill,Lower Body,Stretch,"calves, shoulders, forearms, core",Perform slow and controlled repetitions.
+Exercise 443,Warm-up,Cable Machine,Core,Pull,"abdominals, obliques, shoulders",Keep your back straight and avoid locking your knees.
+Exercise 444,Strength,Cable Machine,Core,Push,"glutes, hamstrings, calves",Stand tall and engage your core throughout the movement.
+Exercise 445,Cardio,Barbell,Full Body,Pull,"rear deltoids, traps, rhomboids","Exhale while exerting force, and inhale while returning to start."
+Exercise 446,Cardio,TRX,Core,Push,"biceps, forearms, deltoids",Rest for 30-60 seconds between sets.
+Exercise 447,Cardio,Resistance Band,Core,Hold,"chest, triceps, front deltoids",Stand tall and engage your core throughout the movement.
+Exercise 448,Cardio,Rope,Core,Push,"abdominals, obliques, shoulders",Keep your back straight and avoid locking your knees.
+Exercise 449,Warm-up,Bodyweight,Core,Push,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 450,Warm-up,Bodyweight,Core,Hold,"glutes, hamstrings, lower back",Keep your shoulders relaxed and down.
+Exercise 451,Warm-up,Dumbbells,Upper Body,Stretch,"deltoids, triceps",Control your motion—avoid using momentum.
+Exercise 452,Warm-up,Rope,Full Body,Hold,"spine extensors, abdominals, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 453,Cardio,Resistance Band,Core,Push,"chest, triceps, front deltoids",Squeeze the target muscles at the top of the movement.
+Exercise 454,Warm-up,Treadmill,Full Body,Push,"traps, rear deltoids, biceps",Keep your shoulders relaxed and down.
+Exercise 455,Mobility,Cable Machine,Core,Pull,"hip flexors, core, quadriceps",Stand tall and engage your core throughout the movement.
+Exercise 456,Cardio,Kettlebells,Lower Body,Hold,"hip flexors, core, quadriceps",Keep your shoulders relaxed and down.
+Exercise 457,Warm-up,Kettlebells,Upper Body,Stretch,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 458,Warm-up,Kettlebells,Lower Body,Pull,"spine extensors, abdominals, shoulders",Maintain a neutral spine throughout the exercise.
+Exercise 459,Cardio,TRX,Full Body,Stretch,"erector spinae, traps, hamstrings",Perform slow and controlled repetitions.
+Exercise 460,Mobility,Bodyweight,Upper Body,Push,"chest, triceps, front deltoids",Keep your shoulders relaxed and down.
+Exercise 461,Mobility,Bodyweight,Core,Hold,"abdominals, obliques, shoulders",Rest for 30-60 seconds between sets.
+Exercise 462,Warm-up,Cable Machine,Full Body,Push,"pectorals, front deltoids, triceps",Keep your back straight and avoid locking your knees.
+Exercise 463,Strength,TRX,Lower Body,Hold,"pectorals, front deltoids, triceps",Maintain a neutral spine throughout the exercise.
+Exercise 464,Cardio,Barbell,Lower Body,Stretch,"calves, shoulders, forearms, core",Control your motion—avoid using momentum.
+Exercise 465,Mobility,Rope,Full Body,Stretch,"spine extensors, abdominals, shoulders",Ensure full range of motion without overstretching.
+Exercise 466,Strength,Kettlebells,Upper Body,Stretch,"traps, rear deltoids, biceps",Rest for 30-60 seconds between sets.
+Exercise 467,Warm-up,Medicine Ball,Upper Body,Pull,"hip flexors, core, quadriceps",Ensure full range of motion without overstretching.
+Exercise 468,Strength,Cable Machine,Lower Body,Push,"lats, rhomboids, biceps",Control your motion—avoid using momentum.
+Exercise 469,Warm-up,Bodyweight,Upper Body,Pull,"rear deltoids, traps, rhomboids",Control your motion—avoid using momentum.
+Exercise 470,Mobility,Rope,Upper Body,Pull,"rear deltoids, traps, rhomboids",Perform slow and controlled repetitions.
+Exercise 471,Strength,Dumbbells,Upper Body,Push,"deltoids, triceps",Control your motion—avoid using momentum.
+Exercise 472,Strength,Medicine Ball,Upper Body,Stretch,"deltoids, triceps",Stand tall and engage your core throughout the movement.
+Exercise 473,Strength,Treadmill,Full Body,Stretch,"rear deltoids, traps, rhomboids",Keep your shoulders relaxed and down.
+Exercise 474,Warm-up,Bodyweight,Upper Body,Stretch,"spine extensors, abdominals, shoulders",Stand tall and engage your core throughout the movement.
+Exercise 475,Warm-up,Resistance Band,Full Body,Push,"glutes, hamstrings, lower back",Perform slow and controlled repetitions.
+Exercise 476,Warm-up,Barbell,Upper Body,Hold,"calves, shoulders, forearms, core",Maintain a neutral spine throughout the exercise.
+Exercise 477,Strength,Kettlebells,Core,Stretch,"spine extensors, abdominals, shoulders",Stand tall and engage your core throughout the movement.
+Exercise 478,Cardio,TRX,Full Body,Push,"lats, rhomboids, biceps",Maintain a neutral spine throughout the exercise.
+Exercise 479,Warm-up,Resistance Band,Full Body,Hold,"deltoids, triceps",Rest for 30-60 seconds between sets.
+Exercise 480,Warm-up,Cable Machine,Full Body,Stretch,"pectorals, front deltoids, triceps",Maintain a neutral spine throughout the exercise.
+Exercise 481,Cardio,Medicine Ball,Upper Body,Pull,"rear deltoids, traps, rhomboids",Rest for 30-60 seconds between sets.
+Exercise 482,Warm-up,Barbell,Upper Body,Pull,"rear deltoids, traps, rhomboids",Stand tall and engage your core throughout the movement.
+Exercise 483,Mobility,Cable Machine,Upper Body,Stretch,"hip flexors, core, quadriceps",Perform slow and controlled repetitions.
+Exercise 484,Strength,Barbell,Upper Body,Pull,"traps, rear deltoids, biceps",Maintain a neutral spine throughout the exercise.
+Exercise 485,Strength,Resistance Band,Full Body,Hold,"deltoids, triceps",Keep your back straight and avoid locking your knees.
+Exercise 486,Cardio,Bodyweight,Core,Stretch,"calves, shoulders, forearms, core",Ensure full range of motion without overstretching.
+Exercise 487,Cardio,Treadmill,Upper Body,Pull,"glutes, hamstrings, lower back",Stand tall and engage your core throughout the movement.
+Exercise 488,Strength,Resistance Band,Lower Body,Pull,"hip flexors, core, quadriceps",Maintain a neutral spine throughout the exercise.
+Exercise 489,Cardio,Kettlebells,Upper Body,Push,"abdominals, obliques, shoulders",Squeeze the target muscles at the top of the movement.
+Exercise 490,Strength,Dumbbells,Core,Hold,"traps, rear deltoids, biceps",Control your motion—avoid using momentum.
+Exercise 491,Warm-up,Dumbbells,Core,Pull,"glutes, hamstrings, calves",Keep your back straight and avoid locking your knees.
+Exercise 492,Strength,TRX,Core,Pull,"deltoids, triceps",Perform slow and controlled repetitions.
+Exercise 493,Mobility,Treadmill,Upper Body,Pull,"chest, triceps, front deltoids",Keep your back straight and avoid locking your knees.
+Exercise 494,Warm-up,Cable Machine,Upper Body,Stretch,"deltoids, triceps",Maintain a neutral spine throughout the exercise.
+Exercise 495,Cardio,Resistance Band,Core,Pull,"abdominals, obliques, shoulders",Perform slow and controlled repetitions.
+Exercise 496,Warm-up,Kettlebells,Lower Body,Pull,"traps, rear deltoids, biceps",Control your motion—avoid using momentum.
+Exercise 497,Cardio,Kettlebells,Core,Pull,"glutes, hamstrings, calves",Keep your back straight and avoid locking your knees.
+Exercise 498,Strength,Rope,Lower Body,Stretch,"lats, rhomboids, biceps",Keep your back straight and avoid locking your knees.
+Exercise 499,Cardio,Medicine Ball,Full Body,Hold,"chest, triceps, front deltoids",Ensure full range of motion without overstretching.
+Exercise 500,Cardio,Resistance Band,Full Body,Push,"erector spinae, traps, hamstrings",Control your motion—avoid using momentum.
